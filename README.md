@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ved Prakash
 - 👀 I’m interested in ...Data Sciense
-- 🌱 I’m currently learning ...DAta Analatics
+- 🌱 I’m currently learning ...Data Analatics
 - 💞️ I’m looking to collaborate on ...Data Analyst and Data visualization
 - 📫 How to reach me ...rchaudhary703@gmail.com
 
